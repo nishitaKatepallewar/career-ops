@@ -1,0 +1,104 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Nishita Katepallewar"
+  email: "nishitapravin2@gmail.com"
+  phone: "+91 9356 101899"
+  location: "Bangalore, India"
+  linkedin: "https://www.linkedin.com/in/nishitakatepallewar"
+  portfolio_url: ""
+  github: "https://github.com/nishitaKatepallewar"
+  languages:
+    - language: "English"
+      level: "native"
+    - language: "Hindi"
+      level: "native"
+    - language: "Marathi"
+      level: "native"
+    - language: "Arabic"
+      level: "read/write — professional, spoken — beginner"
+
+target_roles:
+  primary:
+    - "Software Engineer (New Grad)"
+    - "SWE New Grad"
+    - "Forward Deployed Engineer"
+    - "Applied AI Engineer"
+    - "AI Engineer (New Grad)"
+    - "ML Engineer (New Grad)"
+    - "Research Engineer (New Grad)"
+    - "Backend Engineer (New Grad)"
+    - "Full Stack Engineer (New Grad)"
+    - "Associate Software Engineer"
+  archetypes:
+    - name: "SWE Generalist"
+      level: "New Grad"
+      fit: "primary"
+    - name: "Backend Engineer"
+      level: "New Grad"
+      fit: "primary"
+    - name: "Full Stack Engineer"
+      level: "New Grad"
+      fit: "primary"
+    - name: "Forward Deployed Engineer"
+      level: "New Grad"
+      fit: "primary"
+    - name: "Applied AI Engineer"
+      level: "New Grad"
+      fit: "primary"
+    - name: "AI/ML Engineer"
+      level: "New Grad"
+      fit: "primary"
+    - name: "Research Engineer"
+      level: "New Grad"
+      fit: "primary"
+
+narrative:
+  headline: "SWE intern at Google (AI Infra) | Builder of Vexa, Cloakr, Alias | Y Combinator Startup School India | New Grad SWE/AI"
+  exit_story: "Computer Engineering student at Cummins College, Pune. Spent summer 2025 at Google building data pipelines and infra for AI Infrastructure org. Built Vexa (AI-powered 3D asset QC), Cloakr (LLVM obfuscation toolchain), and Alias (privacy-first PII redaction). YC Startup School India cohort member, Google WE Scholar."
+  superpowers:
+    - "Full-stack + infra engineering (9,500 LOC at Google in one summer)"
+    - "Fast prototyping — idea to working demo (Vexa: automated QC, 12× faster reviews)"
+    - "Deep tech breadth — compilers (LLVM/Clang), AI/ML, distributed systems, full-stack"
+    - "Cross-functional delivery — shipped across SQL, C++, Java, TypeScript, Angular, Protocol Buffers at Google"
+    - "Arabic reader/writer — strong differentiator for Middle East roles (FDE, client-facing)"
+  proof_points:
+    - name: "Google AI Infrastructure Intern"
+      hero_metric: "9,500 LOC contributed, built multi-stage data pipeline for fleet-wide insights"
+    - name: "Vexa — AI Blender Add-on"
+      url: "https://github.com/nishitaKatepallewar/Vexa"
+      hero_metric: "Cut QC review time by 12×, reduced false rejections by 94%"
+    - name: "Cloakr — LLVM Obfuscation Toolchain"
+      url: "https://github.com/nishitaKatepallewar"
+      hero_metric: "Increased binary cyclomatic complexity by 10× via custom LLVM passes"
+    - name: "Alias — PII Redaction Platform"
+      url: "https://gitlab.com/wecapstone/Alias"
+      hero_metric: "Privacy-first detect-redact-restore pipeline with FastAPI, Redis, PostgreSQL"
+    - name: "YC Startup School India"
+      hero_metric: "Selected among ~2,000 participants for YC's inaugural India cohort"
+    - name: "Google WE Scholar"
+      hero_metric: "Top 200 of 30,000 applicants (<1%), 100% scholarship + INR 1,00,000"
+  # dashboard:
+  #   url: ""
+  #   password: ""
+
+compensation:
+  target_range: "₹20-35L (India) / $100K-160K (US) / €50K-90K (EU) / S$80K-140K (SG)"
+  currency: "INR"
+  minimum: "₹15L (India) / $80K (US)"
+  location_flexibility: "Open to Bangalore, remote, and global roles requiring visa sponsorship"
+
+location:
+  country: "India"
+  city: "Bangalore"
+  timezone: "IST"
+  visa_status: "Needs sponsorship: US, EU, UK, SG, AUS, CA. Authorized: India, UAE"
+  # onsite_availability: ""
+
+cv:
+  output_format: "html"
+  # canva_resume_design_id: ""
+
+# Auto-PDF threshold during evaluation
+# auto_pdf_score_threshold: 4.0

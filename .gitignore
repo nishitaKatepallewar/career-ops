@@ -1,8 +1,6 @@
-# Personal data (user fills these)
+# Personal data — keep gitignored even in private fork (CV is personal)
 cv.md
-data/applications.md
-data/pipeline.md
-data/scan-history.tsv
+# Scan/output files — gitignored (transient)
 data/parser-output/**/*.json
 !data/parser-output/.gitkeep
 !data/parser-output/**/.gitkeep
@@ -10,6 +8,7 @@ reports/*.md
 !reports/.gitkeep
 output/*
 !output/.gitkeep
+# Batch artifacts
 batch/logs/*
 !batch/logs/.gitkeep
 batch/batch-state.tsv
@@ -23,10 +22,7 @@ jds/*
 writing-samples/*
 !writing-samples/README.md
 
-# User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# Config — committed for private fork. Remove if using upstream.
 .update-dismissed
 .update-lock
 
