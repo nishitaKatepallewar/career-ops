@@ -15,3 +15,18 @@
 - [x] #026 | https://encord.com/careers/ | Encord | Associate SWE Graduate (London) | 3.5/5 | PDF ✅
 - [x] #027 | https://www.squarepoint-capital.com/careers | Squarepoint Capital | Graduate SW Dev (London/Montreal/SG/NY) | 3.8/5 | PDF ✅
 
+
+## Pendientes
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c | Sierra | Software Engineer, Agent
+- [ ] https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2 | Palantir | Forward Deployed Software Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7977406?gh_jid=7977406 | HelloFresh | Production Associate
+- [ ] https://sumup.com/careers/positions/7875409002?gh_jid=7875409002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7988606002?gh_jid=7988606002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8529496002?gh_jid=8529496002 | SumUp | Full Stack Engineer - Billings & Subscriptions
+- [ ] https://n26.com/en-eu/careers/positions/7530714?gh_jid=7530714 | N26 | Banking Operations Associate - Excellence and Readiness
+- [ ] https://jobs.ashbyhq.com/synthesia/fb7190d8-76aa-4047-ae71-cbe6ec1b4034 | Synthesia | Technical Support Associate - London
+- [ ] https://jobs.ashbyhq.com/faculty/ddaee792-5e2b-4f87-aa60-761798762de5 | Faculty | Machine Learning Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/dcd85828-162e-48a7-a751-e1dc5c29d6eb | Legora | Engagement Associate, Strategic Accounts
+
