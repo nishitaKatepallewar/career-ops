@@ -59,7 +59,7 @@ function parseTracker() {
     .filter(l => l.trim().startsWith('|') && !l.includes('| # |') && !l.includes('|---|'))
     .map(l => l.split('|').map(c => c.trim()).filter(Boolean))
     .filter(c => c.length >= 9)
-    .map(c => ({ num: c[0], date: c[1], company: c[2], role: c[3], score: c[4], status: c[5], notes: c[8] }))
+    .map(c => ({ num: c[0], date: c[1], company: c[2], role: c[3], score: c[4], status: c[5], report: c[7], notes: c[8] }))
     .filter(e => e.date === today);
 }
 
@@ -173,6 +173,23 @@ function tryParseJSON(s) {
   try { return JSON.parse(s); } catch { return null; }
 }
 
+// ── Report URL extraction ──────────────────────────────────────
+
+const REPORTS_DIR = 'reports';
+
+function reportPathFromCol(reportCol) {
+  const m = reportCol.match(/\]\(\.\.\/reports\/([^)]+)\)/);
+  return m ? m[1] : null;
+}
+
+function applyUrlFromReport(reportPath) {
+  const fullPath = `${REPORTS_DIR}/${reportPath}`;
+  if (!existsSync(fullPath)) return null;
+  const text = readFileSync(fullPath, 'utf-8');
+  const m = text.match(/\*\*URL:\*\*\s*(https?:\/\/\S+)/);
+  return m ? m[1] : null;
+}
+
 // ── Message builders ───────────────────────────────────────────
 
 function buildTrackerMessage(today) {
@@ -189,7 +206,10 @@ function buildTrackerMessage(today) {
     msg += `🔥 *Strong Matches (≥ 3.5)* — ${strong.length}\n`;
     for (const e of strong) {
       const fullScore = e.score.endsWith('/5') ? e.score : `${e.score}/5`;
-      msg += `${scoreToEmoji(parseScore(e.score))} *${esc(e.company)}* — ${esc(e.role)}\n   ${fullScore} | ${esc(e.notes)}\n\n`;
+      const url = reportPathFromCol(e.report) ? applyUrlFromReport(reportPathFromCol(e.report)) : null;
+      msg += `${scoreToEmoji(parseScore(e.score))} *${esc(e.company)}* — ${esc(e.role)}\n   ${fullScore} | ${esc(e.notes)}\n`;
+      if (url) msg += `   🔗 ${esc(url)}\n`;
+      msg += '\n';
     }
   }
   if (decent.length > 0) {
