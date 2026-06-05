@@ -1,6 +1,6 @@
 # Jobot
 
-Jobot extends [career-ops](https://github.com/santifer/career-ops) with Telegram notifications, JD extraction, and new-grad-focused scoring.
+Jobot is a [career-ops](https://github.com/santifer/career-ops) fork that adds Telegram notifications, JD extraction, and new-grad-focused scoring. 
 
 Jobot scans job portals, evaluates offers against a candidate's profile, and sends results to Telegram. Designed for new-grad software engineering and AI job hunters.
 
