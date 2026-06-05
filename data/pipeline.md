@@ -67,3 +67,7 @@
 - [ ] https://sumup.com/careers/positions/8354983002?gh_jid=8354983002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8210443002?gh_jid=8210443002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9 | Faculty | Machine Learning Engineer 
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://sumup.com/careers/positions/8354971002?gh_jid=8354971002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7875376002?gh_jid=7875376002 | SumUp | Commercial Terrain - Indépendant (Freelance)
