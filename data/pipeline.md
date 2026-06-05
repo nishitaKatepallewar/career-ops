@@ -30,3 +30,21 @@
 - [ ] https://jobs.ashbyhq.com/faculty/ddaee792-5e2b-4f87-aa60-761798762de5 | Faculty | Machine Learning Engineer 
 - [ ] https://jobs.ashbyhq.com/legora/dcd85828-162e-48a7-a751-e1dc5c29d6eb | Legora | Engagement Associate, Strategic Accounts
 
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560407002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002 | Databricks | Data & AI Platform Architect (Professional Services)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367942002 | Databricks | Resident Solutions Architect (Full Stack Engineer)
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702175005 | Razorpay | Associate, Startup Accounts
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3f10ccc9-56a9-40bf-b5f1-33ab5834ff4a | ElevenLabs | Enterprise Solutions Engineer - Netherlands
+- [ ] https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7640401003?gh_jid=7640401003 | Celonis | Enterprise Business Development Representative (German speaker) | Relocation to Madrid, Spain
+- [ ] https://careers.hellofresh.com/global/en/job/7977373?gh_jid=7977373 | HelloFresh | Claims & Risk Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7982724?gh_jid=7982724 | HelloFresh | Warehouse Associate II
+- [ ] https://sumup.com/careers/positions/8354977002?gh_jid=8354977002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8488967002?gh_jid=8488967002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8529485002?gh_jid=8529485002 | SumUp | Full Stack Engineer 
+- [ ] https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/30d3558d-cef0-460b-a3cd-ad47341b8064 | Faculty | Associate 
+- [ ] https://jobs.ashbyhq.com/faculty/c601a9d6-deea-4a17-b11c-32a99b9275a4 | Faculty | Machine Learning Engineer 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5701750004 | Hightouch | Developer Productivity Engineer
