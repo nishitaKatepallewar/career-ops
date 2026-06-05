@@ -71,3 +71,7 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
 - [ ] https://sumup.com/careers/positions/8354971002?gh_jid=8354971002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/7875376002?gh_jid=7875376002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560393002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://sumup.com/careers/positions/7875410002?gh_jid=7875410002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8468197002?gh_jid=8468197002 | SumUp | Commercial Terrain - Indépendant (Freelance)
