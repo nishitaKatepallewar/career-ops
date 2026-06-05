@@ -48,3 +48,14 @@
 - [ ] https://jobs.ashbyhq.com/faculty/30d3558d-cef0-460b-a3cd-ad47341b8064 | Faculty | Associate 
 - [ ] https://jobs.ashbyhq.com/faculty/c601a9d6-deea-4a17-b11c-32a99b9275a4 | Faculty | Machine Learning Engineer 
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5701750004 | Hightouch | Developer Productivity Engineer
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560401002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d | Sierra | Software Engineer, Agent
+- [ ] https://n26.com/en-eu/careers/positions/7981823?gh_jid=7981823 | N26 | Associate  - Business Continuity Management
+- [ ] https://n26.com/en-eu/careers/positions/7981827?gh_jid=7981827 | N26 | Outsourcing Associate
+- [ ] https://n26.com/en-eu/careers/positions/7946282?gh_jid=7946282 | N26 | Strategy & Operations Associate - Lending
+- [ ] https://n26.com/en-eu/careers/positions/7913105?gh_jid=7913105 | N26 | Strategy & Operations Associate - Lending 
+- [ ] https://sumup.com/careers/positions/7988683002?gh_jid=7988683002 | SumUp | Commercial(e) Terrain Indépendant(e)
+- [ ] https://sumup.com/careers/positions/8354954002?gh_jid=8354954002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8355672002?gh_jid=8355672002 | SumUp | Commercial Terrain - Indépendant (Freelance)
