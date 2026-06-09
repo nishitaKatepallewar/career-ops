@@ -98,3 +98,22 @@
 - [ ] https://sumup.com/careers/positions/8354975002?gh_jid=8354975002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8425643002?gh_jid=8425643002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/qonto/49b6e7a1-e687-48b8-b00d-ebf2c5b74b81 | Qonto | Spontaneous Application - Product Engineering (Backend / Web / Mobile)
+
+- [ ] https://www.coinbase.com/careers/positions/7962675?gh_jid=7962675 | Coinbase | Derivatives Sales Associate
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4698362005 | Razorpay | AI Builder
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4704176005 | Razorpay | Associate, SME Sales
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702817005 | Razorpay | Forward Deployed Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4889900101 | Parloa | CEO Office Associate
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6016529004 | Arize AI | AI Sales Engineer, Digital Native
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076109008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003 | Celonis | Associate Applied AI Engineer (DACH) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate Applied AI Engineer (Scale EMEA) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7762502003?gh_jid=7762502003 | Celonis | Associate Value Engineer (Scale EMEA) - Orbit Program
+- [ ] https://n26.com/en-eu/careers/positions/7857802?gh_jid=7857802 | N26 | Data Engineer - Platform Engineering 
+- [ ] https://n26.com/en-eu/careers/positions/7988525?gh_jid=7988525 | N26 | Software Engineer - RegTech
+- [ ] https://sumup.com/careers/positions/8197069002?gh_jid=8197069002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8125743002?gh_jid=8125743002 | SumUp | Field Sales Associate - Leinster Region
+- [ ] https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist
+- [ ] https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93 | Qonto | Software Engineer (Engineering Efficiency) - remote friendly
+- [ ] https://careers.hellofresh.com/global/en/job/7901831?gh_jid=7901831 | HelloFresh | Production Associate
+- [ ] https://careers.hellofresh.com/global/en/job/7983270?gh_jid=7983270 | HelloFresh | Quality Control Associate 
