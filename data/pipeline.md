@@ -117,3 +117,13 @@
 - [ ] https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93 | Qonto | Software Engineer (Engineering Efficiency) - remote friendly
 - [ ] https://careers.hellofresh.com/global/en/job/7901831?gh_jid=7901831 | HelloFresh | Production Associate
 - [ ] https://careers.hellofresh.com/global/en/job/7983270?gh_jid=7983270 | HelloFresh | Quality Control Associate 
+
+- [ ] https://www.coinbase.com/careers/positions/7991763?gh_jid=7991763 | Coinbase | Software Engineer, Backend (Consumer - Risk)
+- [ ] https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4702819005 | Razorpay | Solutions Engineer
+- [ ] https://boards.greenhouse.io/figma/jobs/5802956004?gh_jid=5802956004 | Figma | Support AI Engineer
+- [ ] https://n26.com/en-eu/careers/positions/7965433?gh_jid=7965433 | N26 | AFC Associate - SAR Delegate (CDD / Fixed-term contract)
+- [ ] https://n26.com/en-eu/careers/positions/7993063?gh_jid=7993063 | N26 | AFC Associate - SAR Delegate  (Déclarant Tracfin) 
+- [ ] https://n26.com/en-eu/careers/positions/7981905?gh_jid=7981905 | N26 | Associate IAM Specialist
+- [ ] https://n26.com/en-eu/careers/positions/7883078?gh_jid=7883078 | N26 | Data Engineer - Platform Engineering 
+- [ ] https://sumup.com/careers/positions/8531513002?gh_jid=8531513002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004 | Isomorphic Labs | Software Engineer (Inference Platform)
