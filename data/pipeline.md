@@ -127,3 +127,17 @@
 - [ ] https://n26.com/en-eu/careers/positions/7883078?gh_jid=7883078 | N26 | Data Engineer - Platform Engineering 
 - [ ] https://sumup.com/careers/positions/8531513002?gh_jid=8531513002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004 | Isomorphic Labs | Software Engineer (Inference Platform)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227641008 | Anthropic | Applied AI Security Architect
+- [ ] https://jobs.ashbyhq.com/sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra | Software Engineer, Agent (Dutch speaking)
+- [ ] https://n26.com/en-eu/careers/positions/7992781?gh_jid=7992781 | N26 | Backend Engineer - Customer Identity
+- [ ] https://n26.com/en-eu/careers/positions/7806652?gh_jid=7806652 | N26 | Banking Operations - Claims Associate German market
+- [ ] https://n26.com/en-eu/careers/positions/7989412?gh_jid=7989412 | N26 | Junior Backend Engineer - Everyday Banking
+- [ ] https://n26.com/en-eu/careers/positions/7992777?gh_jid=7992777 | N26 | Junior Backend Engineer - Lending
+- [ ] https://careers.hellofresh.com/global/en/job/7784779?gh_jid=7784779 | HelloFresh | Analyst, Supply Chain Analytics
+- [ ] https://sumup.com/careers/positions/7869734002?gh_jid=7869734002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/lovable/4a2535cc-9b62-42d4-9401-941c465ee56b | Lovable | Fullstack Engineer - Lovable Apps Platform Team
+- [ ] https://jobs.lever.co/qonto/e97346dd-7496-448d-9bbb-38a560760c82 | Qonto | Data Engineer for AI Product
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration
+- [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity
+- [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness)
