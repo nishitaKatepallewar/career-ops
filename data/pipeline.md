@@ -141,3 +141,14 @@
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration
 - [ ] https://jobs.lever.co/mistral/98e6a2ea-7049-4c8d-88b7-c9d824eea6f1 | Mistral AI | Applied AI Engineer, CyberSecurity
 - [ ] https://jobs.lever.co/mistral/49aa2bb7-5504-46d3-bc40-e1bcdb12cee2 | Mistral AI | Applied AI, Use-case, Software Engineer (Harness)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002 | Databricks | Forward Deployed Engineer
+- [ ] https://n26.com/en-eu/careers/positions/7982591?gh_jid=7982591 | N26 | AFC Operations Excellence Associate
+- [ ] https://n26.com/en-eu/careers/positions/7742395?gh_jid=7742395 | N26 | Backend Engineer
+- [ ] https://n26.com/en-eu/careers/positions/7996816?gh_jid=7996816 | N26 | Backend Engineer - Customer Identity
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771534003?gh_jid=7771534003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://sumup.com/careers/positions/8468194002?gh_jid=8468194002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8576666002?gh_jid=8576666002 | SumUp | SDR Coach and Trainer
+- [ ] https://careers.hellofresh.com/global/en/job/8000664?gh_jid=8000664 | HelloFresh | Brand Marketing Associate - Youfoodz
+- [ ] https://careers.hellofresh.com/global/en/job/7963016?gh_jid=7963016 | HelloFresh | Warehouse Associate II
+- [ ] https://jobs.ashbyhq.com/faculty/7a6e49b5-3f14-4d23-9abe-ec285ce7ee2e | Faculty | Machine Learning Engineer
